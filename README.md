@@ -1,2 +1,2 @@
 # Google-Cybersecurity-Certificate
-This repo includes all the portofolio activity on Google Cybersecuirty Certificate Course
+This repository contains the completed portofolio activities and exercises from the Google CyberSecurity Certification course
